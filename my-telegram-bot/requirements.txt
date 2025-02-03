@@ -1,0 +1,4 @@
+telebot
+google-generativeai
+Pillow
+requests
